@@ -80,12 +80,12 @@ public class Movie {
 	}
 
 
-	public String getImg() {
+	public String getImage() {
 		return image;
 	}
 
 
-	public void setImg(String image) {
+	public void setImage(String image) {
 		this.image = image;
 	}
 

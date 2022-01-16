@@ -28,7 +28,7 @@ public class MovieDTO {
 			title = movie.getTitle();
 			score = movie.getScore();
 			count = movie.getCount();
-			image = movie.getImg();
+			image = movie.getImage();
 		}
 
 
@@ -72,12 +72,12 @@ public class MovieDTO {
 		}
 
 
-		public String getImg() {
+		public String getImage() {
 			return image;
 		}
 
 
-		public void setImg(String image) {
+		public void setImage(String image) {
 			this.image = image;
 		}
 
